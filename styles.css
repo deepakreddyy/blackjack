@@ -1,0 +1,13 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+
+.margin{
+    margin-top: 50px;
+}
+.button{
+    width: 300px;
+}
